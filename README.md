@@ -4,7 +4,7 @@ Welcome to the IPL Analytics Dashboard repository! This project demonstrates the
 
 ## Overview
 
-The IPL Analytics Dashboard offers a comprehensive view of IPL match data, including team performance, player statistics, and match venue distribution across India. By leveraging Tableau's powerful visualization capabilities, this dashboard provides valuable insights for stakeholders in the cricket industry.
+The IPL Analytics Dashboard offers a comprehensive view of IPL match data, including team performance, player statistics, and match venue distribution across India. The dataset used for this analysis is sourced from Kaggle.
 
 ## Skills Utilized
 
